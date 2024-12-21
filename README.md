@@ -2,4 +2,4 @@
 End-term exam
 my name is reeshav krishnatrayya
 <br>
-i am from golghat
+i am from jorhat
